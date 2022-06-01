@@ -7,4 +7,5 @@ date_of_birth DATE,
 escape_attempt INT,
 neutered BOOLEAN,
 weight_kg DECIMAL
+species VARCHAR
 );
