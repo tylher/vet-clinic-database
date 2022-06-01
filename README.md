@@ -33,21 +33,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-<<<<<<< HEAD
 - GitHub: [@tylher](https://github.com/tylher)
 - Twitter: [@tylher123](https://twitter.com/tylher123)
 - LinkedIn: [Taiwo Adediran](https://www.linkedin.com/in/taiwo-adediran-327654127/)
-=======
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
->>>>>>> eae40b35fc91f0d56d4bde228b28fdb28591290f
 
 ## 🤝 Contributing
 
