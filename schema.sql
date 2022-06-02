@@ -8,3 +8,4 @@ escape_attempt INT,
 neutered BOOLEAN,
 weight_kg DECIMAL
 );
+ALTER animals ADD species VARCHAR;
