@@ -8,3 +8,4 @@ INSERT INTO animals(name,date_of_birth,escape_attempt,neutered,weight_kg,species
 INSERT INTO animals(name,date_of_birth,escape_attempt,neutered,weight_kg,species_id,owner_id) VALUES ('Plantmon','Nov 15,2021',2,true,-5.7,1,3),('Squirtle','Apr 2,1993',3,false,-12.13,2,4);
 INSERT INTO animals(name,date_of_birth,escape_attempt,neutered,weight_kg,species_id,owner_id) VALUES ('Angemon','Jun 12,2005',1,true,-45,1,5),('Boarmon','Jun 7,2005',7,true,20.4,1,5),('Blossom','Oct 13,1998',3,true,17,2,4),('Ditto','May 14,2022',4,true,22,2);
 INSERT INTO owners(fullname , age) VALUES ('Sam Smith',34),('Jennifer Orwell', 19),('Bob', 45),('Melody Pond',77),('Dean Winchester',14),('Jodie Whittaker',38);
+INSERT INTO species(name) VALUES ('Digimon'),('Pokemon');
